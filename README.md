@@ -1,2 +1,0 @@
-# multipleLineChart
-Created with CodeSandbox
